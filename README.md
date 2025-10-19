@@ -74,5 +74,4 @@ Sorting
 🧑‍💻 Author
 Nithish Venkatesh
 💡 “Code. Learn. Evolve.”
-📍 LeetCode Profile | GitHub Profile
 
